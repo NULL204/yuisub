@@ -70,7 +70,7 @@ class SubtitleTranslator:
         :param sub: subtitle file path or pysubs2.SSAFile
         :param audio: audio file path or numpy array or torch tensor
         :param styles: subtitle styles, default is PRESET_STYLES
-        :param ad: ad: add advertisement to subtitle, default is TensoRaws
+        :param ad: ad: add advertisement to subtitle, default is EutropicAI
         :return: ZH Subtitles and Bilingual Subtitles
         """
 

@@ -52,7 +52,7 @@ def advertisement(ad: Optional[str] = None, start: int = 0, end: int = 5000) -> 
     :return:
     """
     if ad is None:
-        ad = "本字幕由 TensoRaws 提供, 使用 LLM 翻译 \\N 请遵循 CC BY-NC-SA 4.0 协议使用"
+        ad = "本字幕由 EutropicAI 提供, 使用 LLM 翻译 \\N 请遵循 CC BY-NC-SA 4.0 协议使用"
 
     sub_ad = SSAEvent()
     sub_ad.start = start
@@ -96,7 +96,7 @@ async def translate(
     :param bangumi_url: anime bangumi url
     :param bangumi_access_token: anime bangumi access token
     :param styles: subtitle styles, default is PRESET_STYLES
-    :param ad: add advertisement to subtitle, default is TensoRaws
+    :param ad: add advertisement to subtitle, default is EutropicAI
     :return:
     """
     # pending translation

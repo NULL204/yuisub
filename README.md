@@ -1,10 +1,10 @@
 # yuisub
 
-[![codecov](https://codecov.io/gh/TensoRaws/yuisub/branch/main/graph/badge.svg?token=B2TNKYN4O4)](https://codecov.io/gh/TensoRaws/yuisub)
-[![CI-test](https://github.com/TensoRaws/yuisub/actions/workflows/CI-test.yml/badge.svg)](https://github.com/TensoRaws/yuisub/actions/workflows/CI-test.yml)
-[![Release](https://github.com/TensoRaws/yuisub/actions/workflows/Release.yml/badge.svg)](https://github.com/TensoRaws/yuisub/actions/workflows/Release.yml)
+[![codecov](https://codecov.io/gh/EutropicAI/yuisub/branch/main/graph/badge.svg?token=B2TNKYN4O4)](https://codecov.io/gh/EutropicAI/yuisub)
+[![CI-test](https://github.com/EutropicAI/yuisub/actions/workflows/CI-test.yml/badge.svg)](https://github.com/EutropicAI/yuisub/actions/workflows/CI-test.yml)
+[![Release](https://github.com/EutropicAI/yuisub/actions/workflows/Release.yml/badge.svg)](https://github.com/EutropicAI/yuisub/actions/workflows/Release.yml)
 [![PyPI version](https://badge.fury.io/py/yuisub.svg)](https://badge.fury.io/py/yuisub)
-![GitHub](https://img.shields.io/github/license/TensoRaws/yuisub)
+![GitHub](https://img.shields.io/github/license/EutropicAI/yuisub)
 
 Auto translation of new anime episodes based on ~~Yui-MHCP001~~ LLM
 
